@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "tauProcess"]
 	path = tauProcess
 	url = https://github.com/s07308/tauprocess
-	shallow = true
-	registered = true
